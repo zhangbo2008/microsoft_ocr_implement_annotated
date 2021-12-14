@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a6daeee-b2bc-46d6-bedc-9c34d520f35f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="222dEg5bnx115M2GDwGcMkDLBKH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\PycharmProjects\untitled21" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled21" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INHERITED" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a6daeee-b2bc-46d6-bedc-9c34d520f35f" name="Default Changelist" comment="" />
+      <created>1639039505185</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639039505185</updated>
+      <workItem from="1639039506459" duration="2746000" />
+      <workItem from="1639099417271" duration="1211000" />
+      <workItem from="1639352903627" duration="812000" />
+      <workItem from="1639450790845" duration="11988000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="629" y="94" key="#xdebugger.evaluate" timestamp="1639481425006">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="629" y="94" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1639481425006" />
+    <state width="875" height="438" key="DebuggerActiveHint" timestamp="1639484730858">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="875" height="438" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1639484730858" />
+    <state width="1237" height="154" key="GridCell.Tab.0.bottom" timestamp="1639484927394">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="154" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1639484927394" />
+    <state width="1237" height="154" key="GridCell.Tab.0.center" timestamp="1639484927394">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="154" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1639484927394" />
+    <state width="1237" height="154" key="GridCell.Tab.0.left" timestamp="1639484927394">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="154" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1639484927394" />
+    <state width="1237" height="154" key="GridCell.Tab.0.right" timestamp="1639484927394">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="154" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1639484927394" />
+    <state width="1237" height="154" key="GridCell.Tab.1.bottom" timestamp="1639484927395">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="154" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1639484927395" />
+    <state width="1237" height="154" key="GridCell.Tab.1.center" timestamp="1639484927394">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="154" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1639484927394" />
+    <state width="1237" height="154" key="GridCell.Tab.1.left" timestamp="1639484927394">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="154" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1639484927394" />
+    <state width="1237" height="154" key="GridCell.Tab.1.right" timestamp="1639484927395">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="154" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1639484927395" />
+    <state width="647" height="347" key="XDebugger.FullValuePopup" timestamp="1639481389450">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="647" height="347" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1639481389450" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="generated_text" />
+        <watch expression="self._prepare_encoder_decoder_kwargs_for_generation(input_ids, model_kwargs)" />
+        <watch expression="model_kwargs" />
+        <watch expression="processor(images=image, return_tensors=&quot;pt&quot;).pixel_values" />
+        <watch expression="processor(images=image, return_tensors=&quot;pt&quot;)" />
+        <watch expression="BatchFeature(data=data, tensor_type=return_tensors)" />
+        <watch expression="input_ids" />
+        <watch expression="attention_mask" />
+        <watch expression="processor.batch_decode(generated_ids, skip_special_tokens=True)[0]" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/untitled21$1.coverage" NAME="1 Coverage Results" MODIFIED="1639480999573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

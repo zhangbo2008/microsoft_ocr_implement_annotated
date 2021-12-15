@@ -370,7 +370,7 @@ class TrOCRDecoderLayer(nn.Module):
         """
         residual = hidden_states
 
-        # Self Attention
+        # Self Attention=========算的是结果的自注意力.
         # decoder uni-directional self-attention cached key/values tuple is at positions 1,2
         self_attn_past_key_value = past_key_value[:2] if past_key_value is not None else None
         # add present self-attn cache to positions 1,2 of present_key_value tuple
@@ -395,9 +395,9 @@ class TrOCRDecoderLayer(nn.Module):
 
             # cross_attn cached key/values tuple is at positions 3,4 of present_key_value tuple
             cross_attn_past_key_value = past_key_value[-2:] if past_key_value is not None else None
-            hidden_states, cross_attn_weights, cross_attn_present_key_value = self.encoder_attn(
-                hidden_states=hidden_states,
-                key_value_states=encoder_hidden_states,
+            hidden_states, cross_attn_weights, cross_attn_present_key_value = self.encoder_attn( # q 用的是解码长度 hidden_states,    kv用的是编码长度 key_value_states.
+                hidden_states=hidden_states, # deocder 是解码的hidden states
+                key_value_states=encoder_hidden_states, # 传的是encoder层的hideen_states
                 attention_mask=encoder_attention_mask,
                 layer_head_mask=cross_attn_layer_head_mask,
                 past_key_value=cross_attn_past_key_value,
